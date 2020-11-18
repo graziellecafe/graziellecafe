@@ -1,4 +1,4 @@
-![](https://i.ibb.co/51bPd7H/fundo-Github.png)
+![](fundoGithub.png)
 
 
 ### 🌼 WELCOME! 🌼
