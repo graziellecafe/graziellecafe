@@ -6,8 +6,6 @@
 Hello everybody! My name is Grazielle Café (yes, I have coffee as a last name), 26 years old and I am from Brazil!
 I've been studying front-end and hope to become a developer in the near future! 
 
-![](https://media.giphy.com/media/9rtpurjbqiqZXbBBet/giphy.gif)
-
 You can find me on [twitter](https://twitter.com/graziellecafe) and [instagram](https://www.instagram.com/grazielle.cafe/) 🌻 <br>
 If you want to see what I'm studying and others stuffs, here my [linkedin](https://www.linkedin.com/in/graziellecafe/). 
 
