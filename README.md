@@ -1,4 +1,4 @@
-![Grazielle Café](https://ibb.co/vc0Sbtn)
+![](https://i.ibb.co/51bPd7H/fundo-Github.png)
 
 
 ### 🌼 WELCOME! 🌼
