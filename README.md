@@ -8,10 +8,12 @@ I've been studying front-end and hope to become a developer in the near future!
 
 ![](https://media.giphy.com/media/9rtpurjbqiqZXbBBet/giphy.gif)
 
-You can find me on twitter <a href="https://twitter.com/graziellecafe"> @graziellecafe </a> and instagram <a href="https://www.instagram.com/grazielle.cafe/"> @grazielle.cafe </a> 🌻 <br>
-If you want to see what I'm studying and others stuffs, here my linkedin: https://www.linkedin.com/in/graziellecafe/ 
+You can find me on [twitter](https://twitter.com/graziellecafe) and [instagram](https://www.instagram.com/grazielle.cafe/) 🌻 <br>
+If you want to see what I'm studying and others stuffs, here my [linkedin](https://www.linkedin.com/in/graziellecafe/). 
 
 - 🌱 I’m currently learning HTML5, CSS3 and Javascript! 
 - 📫 How to reach me: graziellecafe@gmail.com
 - 😄 Pronouns: She / Her 
 - ⚡ Fun fact: i'm totally a dog person 
+
+
