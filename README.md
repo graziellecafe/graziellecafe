@@ -1,4 +1,4 @@
-![](fundoGithub.png)
+![](githubGrazi.png)
 
 
 ### 🌼 WELCOME! 🌼
