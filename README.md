@@ -3,7 +3,7 @@
 
 ### 🌼 WELCOME! 🌼
 
-Hello everybody! My name is Grazielle Café (yes, I have coffee as a last name), 26 years old and I am from Brazil!
+Hello everybody! My name is Grazielle Café, 27 years old and I am from Brazil!
 I've been studying front-end and hope to become a developer in the near future! 
 
 You can find me on [twitter](https://twitter.com/graziellecafe) and [instagram](https://www.instagram.com/grazielle.cafe/) 🌻 <br>
