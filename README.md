@@ -1,15 +1,9 @@
 ![](githubGrazi.png)
 
+Hi folks. 
+My name is Grazielle Café, I'm 27 years old and I'm currently a development intern at dti digital. I am studying Electrical Engineering at UFOP and I am very interested in the Control and Automation area. 
 
-### 🌼 WELCOME! 🌼
-
-Hello everybody! My name is Grazielle Café, 27 years old and I am from Brazil!
-I've been studying front-end and hope to become a developer in the near future! 
-
-You can find me on [twitter](https://twitter.com/graziellecafe) and [instagram](https://www.instagram.com/grazielle.cafe/) 🌻 <br>
-If you want to see what I'm studying and others stuffs, here my [linkedin](https://www.linkedin.com/in/graziellecafe/). 
-
-- 🌱 I’m currently learning HTML5, CSS3 and Javascript! 
+- 🌱 I’m currently learning Javascript and Typescript
 - 📫 How to reach me: graziellecafe@gmail.com
 - 😄 Pronouns: She / Her 
 - ⚡ Fun fact: i'm totally a dog person 
