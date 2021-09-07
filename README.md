@@ -8,4 +8,7 @@ My name is Grazielle Café, I'm 27 years old and I'm currently a development int
 - 😄 Pronouns: She / Her 
 - ⚡ Fun fact: i'm totally a dog person 
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
 
