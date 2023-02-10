@@ -1,7 +1,6 @@
-Hi folks. 
-My name is Grazielle Café, I'm 28 years old and I'm currently a consultant developer at Thoughtworks. I am studying Electrical Engineering at UFOP and I am very interested in the Control and Automation area. 
+Hello everybody. My name is Grazielle Café and I'm 28 years old. I'm currently a junior front-end developer at Thoughtworks. Interest in technologies: HTML, CSS, Javascript, Typescript, React, Unit Tests, Microfront-end and Node.JS. Graduated in Electrical Engineering. Interested in becoming a leading front-end developer and helping other women grow in technology.
 
-- 🌱 I’m currently learning Java and React.
+- 🌱 I’m currently learning React and Typescript.
 - 📫 How to reach me: graziellecafe@gmail.com
 - 😄 Pronouns: She / Her 
 - ⚡ Fun fact: i'm totally a dog person 
