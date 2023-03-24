@@ -1,4 +1,4 @@
-Hello everybody. My name is Grazielle Café and I'm 28 years old. I'm currently a junior front-end developer. Interest in technologies: HTML, CSS, Javascript, Typescript, React, Unit Tests, Microfront-end and Node.JS. Graduated in Electrical Engineering. Interested in becoming a leading front-end developer and helping other women grow in technology.
+Hello everybody. My name is Grazielle Café and I'm 29 years old. I'm currently a junior front-end developer. Interest in technologies: HTML, CSS, Javascript, Typescript, React, Unit Tests, Microfront-end and Node.JS. Graduated in Electrical Engineering. Interested in becoming a leading front-end developer and helping other women grow in technology.
 
 In my repositories you can find the courses I'm taking and all of them with a wide README with information about what I'm studying at the moment. 
 
