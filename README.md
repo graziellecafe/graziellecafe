@@ -4,10 +4,10 @@ In my repositories you can find the courses I'm taking and all of them with a wi
 
 I love studying and I am always challenging myself to maintain a daily study routine. On my twitter [@graziellecafe](https://twitter.com/graziellecafe) you can follow me to follow my development on the #30daysofcode project.
 
-- 🌱 I’m currently learning React, Typescript and Node.
+- 🌱 I’m currently learning React, Next, Typescript , Jest and Node.
 - 📫 How to reach me: graziellecafe@gmail.com
 - 😄 Pronouns: She / Her 
-- ⚡ Fun fact: i'm totally a dog person 
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
