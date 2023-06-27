@@ -4,7 +4,7 @@ In my repositories you can find the courses I'm taking and all of them with a wi
 
 I love studying and I am always challenging myself to maintain a daily study routine. 
 
-- 🌱 I’m currently learning React, Next, Typescript , Jest and Node.
+- 🌱 I’m currently learning React, Typescript, Jest and Node.
 - 📫 How to reach me: graziellecafe@gmail.com
 - 😄 Pronouns: She / Her 
 
