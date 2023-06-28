@@ -25,7 +25,8 @@ I love studying and I am always challenging myself to maintain a daily study rou
 It was the first project to create the personal website using HTML and CSS exclusively, very basic.</br>
 The intention now is to create a site with more interactivity using more technologies.
   
-<b> site: https://graziellecafe.github.io/site-pessoal/ </b>
+<b> site: https://graziellecafe.github.io/site-pessoal/ </b></b>
+
 ![Preview do Site Pessoal](site-pessoal.png)
                                                                                                                                                 
 ### Project status:
