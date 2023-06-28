@@ -26,8 +26,6 @@ It was the first project to create the personal website using HTML and CSS exclu
 The intention now is to create a site with more interactivity using more technologies.
   
 <b> site: https://graziellecafe.github.io/site-pessoal/ </b></b>
-
-![Preview do Site Pessoal](site-pessoal.png)
                                                                                                                                                 
 ### Project status:
 Done!
@@ -39,8 +37,6 @@ Done!
 
 ### [Aluroni - React e Typescript](https://github.com/graziellecafe/aluroni/tree/master) 
 This is a project about a restaurant using React stacks with Typescript
-
-![Preview do site aluroni](tela-aluroni.png)
                                                                                                                                                 
 ### Project status:
 Done!
