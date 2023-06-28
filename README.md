@@ -37,7 +37,7 @@ Done!
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS"/>  
 
 
-### [Aluroni - React e Typescript](v) 
+### [Aluroni - React e Typescript](https://github.com/graziellecafe/aluroni/tree/master) 
 This is a project about a restaurant using React stacks with Typescript
 
 ![Preview do site aluroni](tela-aluroni.png)
