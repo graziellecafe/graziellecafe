@@ -19,8 +19,23 @@ I love studying and I am always challenging myself to maintain a daily study rou
  <img alt="Grazielle Café's Twitter" | Twitter" width="100em" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
 </a>
 
+## Projects:
 
-## Stack:
+### [Site Pessoal - HTML e CSS](https://github.com/graziellecafe/site-pessoal) 
+It was the first project to create the personal website using HTML and CSS exclusively, very basic.</br>
+The intention now is to create a site with more interactivity using more technologies.
+  
+<b> site: https://graziellecafe.github.io/site-pessoal/ </b>
+![Preview do Site Pessoal](site-pessoal.png)
+                                                                                                                                                
+### Project status:
+Done!
+
+### Stacks for this project
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS"/>  
+
+## Stacks that I work:
 <div>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS"/>  
