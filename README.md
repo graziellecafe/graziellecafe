@@ -20,8 +20,19 @@ I love studying and I am always challenging myself to maintain a daily study rou
 </a>
 
 ## Projects:
+### [1. Personal Website - React + SASS](https://github.com/graziellecafe/personal-portfolio) 
+                                                                                                                                 
+### Project status:
+Doing
 
-### [1. Personal Website - HTML e CSS](https://github.com/graziellecafe/site-pessoal) 
+### Stacks for this project
+<div>
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
+<img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="SASS"/> 
+<div>
+
+
+### [2. Personal Website - HTML e CSS](https://github.com/graziellecafe/site-pessoal) 
 It was the first project to create the personal website using HTML and CSS exclusively, very basic.</br>
 The intention now is to create a site with more interactivity using more technologies.
   
@@ -37,7 +48,7 @@ Done!
 <div>
 
 
-### [2. Aluroni - React e Typescript](https://github.com/graziellecafe/aluroni/tree/master) 
+### [3. Aluroni - React e Typescript](https://github.com/graziellecafe/aluroni/tree/master) 
 is a project about the menu of a restaurant called Aluroni
                                                                                                                                                 
 ### Project status:
