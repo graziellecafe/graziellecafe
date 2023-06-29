@@ -21,7 +21,7 @@ I love studying and I am always challenging myself to maintain a daily study rou
 
 ## Projects:
 
-### [Personal Website - HTML e CSS](https://github.com/graziellecafe/site-pessoal) 
+### [1. Personal Website - HTML e CSS](https://github.com/graziellecafe/site-pessoal) 
 It was the first project to create the personal website using HTML and CSS exclusively, very basic.</br>
 The intention now is to create a site with more interactivity using more technologies.
   
@@ -37,7 +37,7 @@ Done!
 <div>
 
 
-### [Aluroni - React e Typescript](https://github.com/graziellecafe/aluroni/tree/master) 
+### [2. Aluroni - React e Typescript](https://github.com/graziellecafe/aluroni/tree/master) 
 is a project about the menu of a restaurant called Aluroni
                                                                                                                                                 
 ### Project status:
