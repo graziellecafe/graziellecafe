@@ -20,7 +20,23 @@ I love studying and I am always challenging myself to maintain a daily study rou
 </a>
 
 ## Projects:
-### [1. Personal Website - React + SASS](https://github.com/graziellecafe/personal-portfolio) 
+### [1. Personal Website - React + Tailwind CSS](https://github.com/graziellecafe/portfolio) 
+
+### Link to see the project:
+https://graziellecafe.github.io/portfolio/
+
+### Project status:
+Doing
+
+### Stacks for this project
+<div>
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
+<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind"/> 
+<div>
+
+  
+## Projects:
+### [2. Personal Website - React + SASS](https://github.com/graziellecafe/personal-portfolio) 
                                                                                                                                  
 ### Project status:
 Doing
@@ -32,7 +48,7 @@ Doing
 <div>
 
 
-### [2. Personal Website - HTML e CSS](https://github.com/graziellecafe/site-pessoal) 
+### [3. Personal Website - HTML e CSS](https://github.com/graziellecafe/site-pessoal) 
 It was the first project to create the personal website using HTML and CSS exclusively, very basic.</br>
 The intention now is to create a site with more interactivity using more technologies.
   
@@ -48,8 +64,8 @@ Done!
 <div>
 
 
-### [3. Aluroni - React e Typescript](https://github.com/graziellecafe/aluroni/tree/master) 
-is a project about the menu of a restaurant called Aluroni
+### [4. Aluroni - React e Typescript](https://github.com/graziellecafe/aluroni/tree/master) 
+Is a project about the menu of a restaurant called Aluroni
                                                                                                                                                 
 ### Project status:
 Done!
