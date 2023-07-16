@@ -18,34 +18,6 @@ I love studying and I am always challenging myself to maintain a daily study rou
 <a href="https://twitter.com/graziellecafe">
  <img alt="Grazielle Café's Twitter" | Twitter" width="100em" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
 </a>
-  
-## Projects:
-### [2. Personal Website - React + SASS](https://github.com/graziellecafe/personal-portfolio) 
-                                                                                                                                 
-### Project status:
-Doing
-
-### Stacks for this project
-<div>
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
-<img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="SASS"/> 
-<div>
-
-
-### [3. Personal Website - HTML e CSS](https://github.com/graziellecafe/site-pessoal) 
-It was the first project to create the personal website using HTML and CSS exclusively, very basic.</br>
-The intention now is to create a site with more interactivity using more technologies.
-  
-<b> site: https://graziellecafe.github.io/site-pessoal/ </b></b>
-                                                                                                                                                
-### Project status:
-Done!
-
-### Stacks for this project
-<div>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS"/> 
-<div>
 
 
 ### [4. Aluroni - React e Typescript](https://github.com/graziellecafe/aluroni/tree/master) 
