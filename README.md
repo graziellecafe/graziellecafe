@@ -18,22 +18,6 @@ I love studying and I am always challenging myself to maintain a daily study rou
 <a href="https://twitter.com/graziellecafe">
  <img alt="Grazielle Café's Twitter" | Twitter" width="100em" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
 </a>
-
-## Projects:
-### [1. Personal Website - React + Tailwind CSS](https://github.com/graziellecafe/portfolio) 
-
-### Link to see the project:
-https://graziellecafe.github.io/portfolio/
-
-### Project status:
-Doing
-
-### Stacks for this project
-<div>
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
-<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind"/> 
-<div>
-
   
 ## Projects:
 ### [2. Personal Website - React + SASS](https://github.com/graziellecafe/personal-portfolio) 
