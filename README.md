@@ -20,19 +20,6 @@ I love studying and I am always challenging myself to maintain a daily study rou
 </a>
 
 
-### [4. Aluroni - React e Typescript](https://github.com/graziellecafe/aluroni/tree/master) 
-Is a project about the menu of a restaurant called Aluroni
-                                                                                                                                                
-### Project status:
-Done!
-
-### Stacks for this project
-<div>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="Javascript"/>
-<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TS and typescript"/>
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/> 
-<div>
-
 ## Stacks that I have experience
 <div>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
