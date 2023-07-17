@@ -36,5 +36,5 @@ I love studying and I am always challenging myself to maintain a daily study rou
 <img height="165em" width: "100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=graziellecafe&layout=compact&langs_count=5&theme=gotham"/>
 <div/>
 
-
+### My projects and portfolios are just below along with the studies I'm doing :)  
 
