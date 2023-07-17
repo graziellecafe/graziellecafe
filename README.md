@@ -19,6 +19,8 @@ I love studying and I am always challenging myself to maintain a daily study rou
  <img alt="Grazielle Café's Twitter" | Twitter" width="100em" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
 </a>
 
+**On my twitter I'm challenging myself in the __#100daysofcode__ that you can follow with me**
+
 
 ## Stacks that I have experience
 <div>
