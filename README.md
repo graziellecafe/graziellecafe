@@ -1,42 +1,38 @@
-## Thanks for your visit!
+# Grazielle Café
 
-Hello everybody. My name is Grazielle Café and I'm 29 years old. I'm currently a junior front-end developer. Interest in technologies: HTML, CSS, Javascript, Typescript, React, Unit Tests. Graduated in Electrical Engineering. Interested in becoming a leading front-end developer and helping other women grow in technology.
-
-In my repositories you can find the courses I'm taking and all of them with a wide README with information about what I'm studying at the moment. 
+Hello everybody. My name is Grazielle Café and I'm 29 years old. I'm currently a junior Front-End Eeveloper.  Graduated in Electrical Engineering. In my **repositories** you can find the courses I'm taking and all of them with a wide README with information about what I'm studying at the moment. 
 
 I love studying and I am always challenging myself to maintain a daily study routine. 
 
-- 🌱 I’m currently learning React, Typescript, Jest and Api Rest.
+- :purple_heart: Interested in becoming a leading front-end developer and helping other women grow in technology.
 - 📫 How to reach me: graziellecafe@gmail.com
-- 😄 Pronouns: She / Her 
+- 😄 Pronouns: She / Her
 
-### You can find out more about my work and my interests:
 
+ You can find out more about my work and my interests. On Twitter I'm doing the **#100daysofcode**. Follow it! 
+
+<a href="https://twitter.com/graziellecafe">
+ <img alt="Grazielle Café'ss Twitter" | Twitter" width="100em" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+</a>
 <a href="https://www.linkedin.com/in/graziellecafe/">
   <img alt="Grazielle Café's LinkedIn" width="100em" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-<a href="https://twitter.com/graziellecafe">
- <img alt="Grazielle Café's Twitter" | Twitter" width="100em" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-</a>
-
-**On my twitter I'm challenging myself in the __#100daysofcode__ that you can follow with me**
+<br/>
 
 
-## Stacks that I have experience
+##
+
+Stacks that I know and that I'm studying
 <div>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS"/>  
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="Javascript"/>
-<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TS and typescript"/>
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>  
-<img src="https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=white" alt="Jest"/>  
+  <div style="display: inline_block"><br>
+  <img align="center" alt="graziellecafe" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="graziellecafe" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="graziellecafe" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="graziellecafe" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"> 
+  <img align="center" alt="graziellecafe" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>  
+  <img src="https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=white" alt="Jest"/>  
+  </div>
 
 
-## My github stats
-<div>
-<img  height="165em" width: "100em" src="https://github-readme-stats.vercel.app/api?username=graziellecafe&show_icons=true&theme=gotham" alt="graziellecafe" />
-<img height="165em" width: "100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=graziellecafe&layout=compact&langs_count=5&theme=gotham"/>
-<div/>
-
-### My projects and portfolios are just below along with the studies I'm doing :)  
 
