@@ -1,5 +1,10 @@
 # Grazielle Café
+<div align="center">
+<b>FrontEnd Developer | Study enthusiast  | Daydreamer | :sunflower:
+<br>
+<br>
 
+<div align="left"> 
 Hello everybody. My name is Grazielle Café and I'm 29 years old. I'm currently a junior Front-End Developer.  Graduated in Electrical Engineering. In my **repositories** you can find the courses I'm taking and all of them with a wide README with information about what I'm studying at the moment. 
 
 I love studying and I am always challenging myself to maintain a daily study routine. 
@@ -12,10 +17,10 @@ I love studying and I am always challenging myself to maintain a daily study rou
  You can find out more about my work and my interests. On Twitter I'm doing the **#100daysofcode**. Follow it! 
 
 <a href="https://twitter.com/graziellecafe">
- <img alt="Grazielle Café'ss Twitter" | Twitter" width="100em" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+<img alt="Grazielle Café'ss Twitter" | Twitter" width="100em" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
 </a>
 <a href="https://www.linkedin.com/in/graziellecafe/">
-  <img alt="Grazielle Café's LinkedIn" width="100em" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+ <img alt="Grazielle Café's LinkedIn" width="100em" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <br/>
 
@@ -36,3 +41,29 @@ Stacks that I know and that I'm studying
 
 
 
+<h1 align="center"> Projetos </h1
+
+<div align="left"> 
+
+### [1. Personal Website - React + Tailwind CSS](https://github.com/graziellecafe/portfolio) 
+
+### :link: Link to see the project:
+https://graziellecafe.github.io/portfolio/
+ 
+### :zap:Stacks for this project
+<div>
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
+<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind"/> 
+<div>
+
+
+### [2. Site Pessoal - HTML + CSS](https://github.com/graziellecafe/site-pessoal) 
+
+### :link: Link to see the project:
+[https://graziellecafe.github.io/portfolio/](https://graziellecafe.github.io/site-pessoal/)
+ 
+### :zap:Stacks for this project
+<div>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS"/> 
+<div>
