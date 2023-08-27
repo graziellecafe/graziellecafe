@@ -43,7 +43,19 @@ Stacks that I know and that I'm studying
 
 <div align="left"> 
 
-### [1. Personal Website - React + Tailwind CSS](https://github.com/graziellecafe/portfolio) 
+### [1. Tom's Jazz School - Landing Page - HTML e CSS](https://github.com/graziellecafe/landing-page) 
+
+### :link: Link to see the project:
+[https://graziellecafe.github.io/landing-page/](https://graziellecafe.github.io/landing-page/)
+ 
+### :zap:Stacks for this project
+<div>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS"/> 
+<div>
+
+ 
+### [2. Personal Website - React + Tailwind CSS](https://github.com/graziellecafe/portfolio) 
 
 ### :link: Link to see the project:
 https://graziellecafe.github.io/portfolio/
@@ -55,13 +67,15 @@ https://graziellecafe.github.io/portfolio/
 <div>
 
 
-### [2. Site Pessoal - HTML + CSS](https://github.com/graziellecafe/site-pessoal) 
+### [3. Site Pessoal - HTML + CSS](https://github.com/graziellecafe/site-pessoal) 
 
 ### :link: Link to see the project:
-[https://graziellecafe.github.io/portfolio/](https://graziellecafe.github.io/site-pessoal/)
+[https://graziellecafe.github.io/site-pessoal/](https://graziellecafe.github.io/site-pessoal/)
  
 ### :zap:Stacks for this project
 <div>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML"/>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS"/> 
 <div>
+
+
