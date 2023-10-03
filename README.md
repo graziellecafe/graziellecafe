@@ -1,9 +1,7 @@
-# Grazielle Café
-Hello everybody :v:
-
+### "Olá pessoas!" \o/ 👋
 
 <div align="left"> 
-My name is Grazielle Café and I'm 29 years old. I'm currently a junior Fullstack Developer.  Graduated in Electrical Engineering. In my repositories you can find the courses I'm taking and all of them with a wide README with information about what I'm studying at the moment. 
+My name is Grazielle Café and I'm from Brazil (🇧🇷). I'm currently a junior FrontEnd Developer.  Graduated in Electrical Engineering. In my repositories you can find the courses I'm taking and all of them with a wide README with information about what I'm studying at the moment. 
 
 I love studying and I am always challenging myself to maintain a daily study routine. 
 
@@ -14,12 +12,14 @@ I love studying and I am always challenging myself to maintain a daily study rou
 
  You can find out more about my work and my interests. On Twitter I'm doing the **#100daysofcode**. Follow it! 
 
-<a href="https://twitter.com/graziellecafe">
-<img alt="Grazielle Café'ss Twitter" | Twitter" width="100em" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-</a>
 <a href="https://www.linkedin.com/in/graziellecafe/">
  <img alt="Grazielle Café's LinkedIn" width="100em" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
+
+<a href="https://twitter.com/graziellecafe">
+<img alt="Grazielle Café'ss Twitter" | Twitter" width="100em" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+</a>
+
 <br/>
 
 
