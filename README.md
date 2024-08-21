@@ -1,4 +1,4 @@
-![](folder.jpeg) 
+![](wallpaper.png) 
 
 <div align="left"> 
 My name is Grazielle Café and I'm from Brazil (🇧🇷). I'm currently a junior FrontEnd Developer.  Graduated in Electrical Engineering. In my repositories you can find the courses I'm taking and all of them with a wide README with information about what I'm studying at the moment. 
