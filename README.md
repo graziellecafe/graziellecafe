@@ -2,7 +2,7 @@
 
 <div align="left"> 
 
- ✨ Hi there, I`m Grazielle Café ✨
+ ✨ Hi there, I'm Grazielle Café ✨
  
 - Postgraduate in FullStack and FullCycle from XP Educação 
 - Undergraduate student in Electrical Engineering at the Federal University of Ouro Preto (UFOP)
