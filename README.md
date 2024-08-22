@@ -68,7 +68,13 @@ Stacks that I know and that I'm studying
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS"/> 
 <div>
 
+### [4. Número Secreto - HTML + CSS](https://github.com/graziellecafe/numero-secreto) 
+- Link to see the project:
+[https://graziellecafe.github.io/site-pessoal/](https://graziellecafe.github.io/site-pessoal/)
+- Stacks for this project
+<div>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS"/> 
+<div>
 
 
-## Repository
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=graziellecafe&repo=landing-page&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/graziellecafe/landing-page)
