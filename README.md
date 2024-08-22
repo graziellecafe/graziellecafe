@@ -71,7 +71,7 @@ I love studying and I am always challenging myself to maintain a daily study rou
 
 ### [4. Número Secreto - HTML + CSS](https://github.com/graziellecafe/numero-secreto) 
 - Link to see the project:
-[https://graziellecafe.github.io/site-pessoal/](https://graziellecafe.github.io/site-pessoal/)
+[https://graziellecafe.github.io/numero-secreto/](https://graziellecafe.github.io/numero-secreto/)
 - Stacks for this project
 <div>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML"/>
