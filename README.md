@@ -1,14 +1,13 @@
 ![](wallpaper.png) 
 
 <div align="left"> 
- ✨ Hi there, I'm Grazielle Café! ✨
-Software Engineering Student at the University of Brasilia - UnB.
-Passionate about programming, machine learning, data science and robotics.
-Member of a competition team, EDRA-UnB ❤️, which develops autonomous drones. In it I work mainly with computer vision.
-Intern at Alura | Scuba Team Semente. 💙🚀
 
+ ✨ Hi there, I`m Grazielle Café ✨
  
-My name is Grazielle Café and I'm from Brazil (🇧🇷). I'm currently a junior FrontEnd Developer.  Graduated in Electrical Engineering. In my repositories you can find the courses I'm taking and all of them with a wide README with information about what I'm studying at the moment. 
+- Postgraduate in FullStack and FullCycle from XP Educação 
+- Undergraduate student in Electrical Engineering at the Federal University of Ouro Preto (UFOP)
+- Software Developer (ex-dti and ex-Thoughtworks)
+- Passionate about programming, web developer, front-end 
 
 I love studying and I am always challenging myself to maintain a daily study routine. 
 
