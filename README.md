@@ -16,22 +16,17 @@ I love studying and I am always challenging myself to maintain a daily study rou
 - 😄 Pronouns: She / Her
 
 
- You can find out more about my work and my interests. On Twitter I'm doing the **#100daysofcode**. Follow it! 
+## Conecte-se comigo - 📫 How to reach me:
+<a href="https://www.linkedin.com//in/graziellecafe/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+<a href="https://instagram.com/graziellecafe" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<a href = "mailto:graziellecafe@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
-<a href="https://www.linkedin.com/in/graziellecafe/">
- <img alt="Grazielle Café's LinkedIn" width="100em" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
 
-<a href="https://twitter.com/graziellecafe">
-<img alt="Grazielle Café'ss Twitter" | Twitter" width="100em" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-</a>
 
 <br/>
 
 
-##
-
-Stacks that I know and that I'm studying
+## Stacks that I know and that I'm studying
 <div style="">
   <img alt="html5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
   <img alt="html5" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
