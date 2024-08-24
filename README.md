@@ -41,8 +41,9 @@ I love studying and I am always challenging myself to maintain a daily study rou
 <h1 align="center"> Projetos </h1>
 <div align="left"> 
 
-### [1. Personal Website - React + Tailwind CSS](https://github.com/graziellecafe/portfolio) 
-- Link to see the project: https://graziellecafe.github.io/portfolio/
+### [1. Portfolio - React + Tailwind CSS](https://github.com/graziellecafe/portfolio) 
+- Link to see the project:
+[Portolio Profissional](https://graziellecafe.github.io/landing-page/)
 - Stacks for this project
 <div>
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
@@ -51,7 +52,7 @@ I love studying and I am always challenging myself to maintain a daily study rou
  
 ### [2. Tom's Jazz School - Landing Page - HTML e CSS](https://github.com/graziellecafe/landing-page) 
 - Link to see the project: 
-[https://graziellecafe.github.io/landing-page/](https://graziellecafe.github.io/landing-page/)
+[Projeto Tom`s Jazz School](https://graziellecafe.github.io/landing-page/)
 - Stacks for this project
 <div>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML"/>
@@ -60,7 +61,7 @@ I love studying and I am always challenging myself to maintain a daily study rou
 
  ### [3. Site Pessoal (Alura + Oracle) - HTML + CSS](https://github.com/graziellecafe/html-css-oracle-next-education-t7) 
 - Link to see the project:
-[https://portfolio-alura-oracle-alpha.vercel.app/](https://portfolio-alura-oracle-alpha.vercel.app)
+[Site pessoal - Bootcamp Alura + Oracle](https://portfolio-alura-oracle-alpha.vercel.app)
 - Stacks for this project
 <div>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML"/>
@@ -70,7 +71,7 @@ I love studying and I am always challenging myself to maintain a daily study rou
 
 ### [4. Site Pessoal - HTML + CSS](https://github.com/graziellecafe/site-pessoal) 
 - Link to see the project:
-[https://graziellecafe.github.io/site-pessoal/](Site pessoal criado pelo bootcamp da Alura + Oracle)
+[Site pessoal - Imersão Alura](https://graziellecafe.github.io/site-pessoal/)
 - Stacks for this project
 <div>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML"/>
@@ -79,7 +80,7 @@ I love studying and I am always challenging myself to maintain a daily study rou
 
 ### [5. Número Secreto - HTML + CSS](https://github.com/graziellecafe/numero-secreto) 
 - Link to see the project:
-[https://graziellecafe.github.io/numero-secreto/](https://graziellecafe.github.io/numero-secreto/)
+[Projeto Número Secreto - Alura](https://graziellecafe.github.io/numero-secreto/)
 - Stacks for this project
 <div>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML"/>
