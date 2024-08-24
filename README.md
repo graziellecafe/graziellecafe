@@ -43,7 +43,7 @@ I love studying and I am always challenging myself to maintain a daily study rou
 
 ### [1. Portfolio - React + Tailwind CSS](https://github.com/graziellecafe/portfolio) 
 - Link to see the project:
-[Portolio Profissional](https://graziellecafe.github.io/landing-page/)
+[Portolio Profissional](https://graziellecafe.github.io/portfolio/)
 - Stacks for this project
 <div>
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
@@ -68,19 +68,18 @@ I love studying and I am always challenging myself to maintain a daily study rou
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS"/> 
 <div>
 
-
-### [4. Site Pessoal - HTML + CSS](https://github.com/graziellecafe/site-pessoal) 
+### [4. Número Secreto - HTML + CSS](https://github.com/graziellecafe/numero-secreto) 
 - Link to see the project:
-[Site pessoal - Imersão Alura](https://graziellecafe.github.io/site-pessoal/)
+[Projeto Número Secreto - Alura](https://graziellecafe.github.io/numero-secreto/)
 - Stacks for this project
 <div>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML"/>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS"/> 
 <div>
 
-### [5. Número Secreto - HTML + CSS](https://github.com/graziellecafe/numero-secreto) 
+### [5. Site Pessoal - HTML + CSS](https://github.com/graziellecafe/site-pessoal) 
 - Link to see the project:
-[Projeto Número Secreto - Alura](https://graziellecafe.github.io/numero-secreto/)
+[Site pessoal - Imersão Alura](https://graziellecafe.github.io/site-pessoal/)
 - Stacks for this project
 <div>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML"/>
