@@ -60,7 +60,7 @@ I love studying and I am always challenging myself to maintain a daily study rou
 
  ### [3. Site Pessoal (Alura + Oracle) - HTML + CSS](https://github.com/graziellecafe/html-css-oracle-next-education-t7) 
 - Link to see the project:
-[https://github.com/graziellecafe/html-css-oracle-next-education-t7/](https://portfolio-alura-oracle-alpha.vercel.app)
+[https://portfolio-alura-oracle-alpha.vercel.app/](https://portfolio-alura-oracle-alpha.vercel.app)
 - Stacks for this project
 <div>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML"/>
