@@ -70,7 +70,7 @@ I love studying and I am always challenging myself to maintain a daily study rou
 
 ### [4. Site Pessoal - HTML + CSS](https://github.com/graziellecafe/site-pessoal) 
 - Link to see the project:
-[https://graziellecafe.github.io/site-pessoal/](https://graziellecafe.github.io/site-pessoal/)
+[https://graziellecafe.github.io/site-pessoal/](Site pessoal criado pelo bootcamp da Alura + Oracle)
 - Stacks for this project
 <div>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML"/>
