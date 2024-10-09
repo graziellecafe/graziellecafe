@@ -41,6 +41,27 @@ I love studying and I am always challenging myself to maintain a daily study rou
 <h1 align="center"> Projetos </h1>
 <div align="left"> 
 
+### [1. Bikcraft: HTML + CSS](https://github.com/graziellecafe/bikcraft-html-css) 
+- Link to see the project:
+[Bikcraft](https://bikcraft-lyart.vercel.app/)
+- Stacks for this project
+<div>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS"/> 
+<div>
+
+### [1. Coffee Break: HTML + CSS + JS](https://github.com/graziellecafe/challenge-decofidicador-alura-oracle) 
+- Link to see the project:
+[Coffee Break](https://challenge-decodificador-sandy-ten.vercel.app/)
+- Stacks for this project
+<div>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS"/> 
+<div>
+
+
+
+
 ### [1. Portfolio - React + Tailwind CSS](https://github.com/graziellecafe/portfolio) 
 - Link to see the project:
 [Portolio Profissional](https://graziellecafe.github.io/portfolio/)
