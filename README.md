@@ -50,7 +50,7 @@ I love studying and I am always challenging myself to maintain a daily study rou
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS"/> 
 <div>
 
-### [1. Coffee Break: HTML + CSS + JS](https://github.com/graziellecafe/challenge-decofidicador-alura-oracle) 
+### [2. Coffee Break: HTML + CSS + JS](https://github.com/graziellecafe/challenge-decofidicador-alura-oracle) 
 - Link to see the project:
 [Coffee Break](https://challenge-decodificador-sandy-ten.vercel.app/)
 - Stacks for this project
@@ -60,9 +60,7 @@ I love studying and I am always challenging myself to maintain a daily study rou
 <div>
 
 
-
-
-### [1. Portfolio - React + Tailwind CSS](https://github.com/graziellecafe/portfolio) 
+### [3. Portfolio - React + Tailwind CSS](https://github.com/graziellecafe/portfolio) 
 - Link to see the project:
 [Portolio Profissional](https://graziellecafe.github.io/portfolio/)
 - Stacks for this project
@@ -71,7 +69,7 @@ I love studying and I am always challenging myself to maintain a daily study rou
 <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind"/> 
 <div>
  
-### [2. Tom's Jazz School - Landing Page - HTML e CSS](https://github.com/graziellecafe/landing-page) 
+### [4. Tom's Jazz School - Landing Page - HTML e CSS](https://github.com/graziellecafe/landing-page) 
 - Link to see the project: 
 [Projeto Tom`s Jazz School](https://graziellecafe.github.io/landing-page/)
 - Stacks for this project
@@ -80,7 +78,7 @@ I love studying and I am always challenging myself to maintain a daily study rou
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS"/> 
 <div>
 
- ### [3. Site Pessoal (Alura + Oracle) - HTML + CSS](https://github.com/graziellecafe/html-css-oracle-next-education-t7) 
+ ### [5. Site Pessoal (Alura + Oracle) - HTML + CSS](https://github.com/graziellecafe/html-css-oracle-next-education-t7) 
 - Link to see the project:
 [Site pessoal - Bootcamp Alura + Oracle](https://portfolio-alura-oracle-alpha.vercel.app)
 - Stacks for this project
@@ -89,7 +87,7 @@ I love studying and I am always challenging myself to maintain a daily study rou
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS"/> 
 <div>
 
-### [4. Número Secreto - HTML + CSS](https://github.com/graziellecafe/numero-secreto) 
+### [6. Número Secreto - HTML + CSS](https://github.com/graziellecafe/numero-secreto) 
 - Link to see the project:
 [Projeto Número Secreto - Alura](https://graziellecafe.github.io/numero-secreto/)
 - Stacks for this project
@@ -98,7 +96,7 @@ I love studying and I am always challenging myself to maintain a daily study rou
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS"/> 
 <div>
 
-### [5. Site Pessoal - HTML + CSS](https://github.com/graziellecafe/site-pessoal) 
+### [7. Site Pessoal - HTML + CSS](https://github.com/graziellecafe/site-pessoal) 
 - Link to see the project:
 [Site pessoal - Imersão Alura](https://graziellecafe.github.io/site-pessoal/)
 - Stacks for this project
