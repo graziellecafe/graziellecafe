@@ -60,7 +60,7 @@ I love studying and I am always challenging myself to maintain a daily study rou
 <div>
 
  
-### [3. Login Form: HTML + CSS](https://github.com/graziellecafe/bikcraft-html-css) 
+### [3. Login Form: HTML + CSS](https://github.com/graziellecafe/login-form) 
 - Link to see the project:
 [Login Form](https://login-form-two-rose.vercel.app/)
 - Stacks for this project
